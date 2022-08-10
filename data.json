@@ -1,37 +1,22 @@
 [
-  {
-    dateTime: "2022-07-24T12:00:00Z",
-    latestQuantity: "0.039000",
-    quality: "S",
-    method: "14",
-    reasonCode: "76"
-  },
-  {
-    dateTime: "2022-07-24T12:05:00Z",
-    latestQuantity: "0.010000",
-    quality: "S",
-    method: "14",
-    reasonCode: "76"
-  },
-  {
-    dateTime: "2022-07-24T12:10:00Z",
-    latestQuantity: "0.009000",
-    quality: "S",
-    method: "14",
-    reasonCode: "76"
-  },
-  {
-    dateTime: "22022-07-24T12:15:00Z",
-    latestQuantity: "0.010000",
-    quality: "S",
-    method: "14",
-    reasonCode: "76"
-  },
-  {
-    dateTime: "2022-07-24T12:20:00Z",
-    latestQuantity: "0.019000",
-    quality: "S",
-    method: "14",
-    reasonCode: "76"
-  }
+  [
+    "2022-07-24T12:00:00Z",
+    "0.039000"
+  ],
+  [
+    "2022-07-24T12:05:00Z",
+    "0.018000"
+  ],
+  [
+    "2022-07-24T12:10:00Z",
+    "0.056000"
+  ],
+  [
+    "2022-07-24T12:15:00Z",
+    "0.08000"
+  ],
+  [
+    "2022-07-24T12:20:00Z",
+    "0.015000"
+  ],
 ]
