@@ -1,0 +1,11 @@
+const schema = [
+  {
+    name: "Processed",
+    type: "number"
+  },
+  {
+    name: "Time",
+    type: "date",
+    format: "%Y-%m-%dT%H:%M:%S%Z"
+  }
+];
