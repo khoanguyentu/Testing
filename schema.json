@@ -1,4 +1,4 @@
-const schema = [
+[
   {
     name: "Processed",
     type: "number"
@@ -8,4 +8,4 @@ const schema = [
     type: "date",
     format: "%Y-%m-%dT%H:%M:%S%Z"
   }
-];
+]
